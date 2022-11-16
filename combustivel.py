@@ -1,6 +1,6 @@
 gasolina = float(input('Digite o preço da gasolina \n'))
 
-alcool = float(input('Digite o preço do alcool \n'))4
+alcool = float(input('Digite o preço do alcool \n'))
 
 resultado= alcool/ gasolina *(70/100)*100
 
